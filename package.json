@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A coding challenge: To input a food item and receive the output receipt containing restaurant, food item and price.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
